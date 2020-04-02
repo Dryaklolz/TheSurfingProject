@@ -1,0 +1,21 @@
+body{
+  font-family: 'Gotu', sans-serif;
+	font-size: 20px;
+}
+
+.jumbotron-hero{
+  height: 500px;
+  background-image: url("cedric-frixon-G9Rfc1qccH4-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn{
+	margin-top: 30px;
+}
+.titreclass{
+	font-size: 50px;
+	font-weight: bold;
+	margin: 100px 0px;
+
+}
